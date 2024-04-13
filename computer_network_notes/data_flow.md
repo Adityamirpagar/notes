@@ -7,17 +7,17 @@ Data flow between two devices can be simplex, half-duplex, full-duplex
 
 e.g, keybord, monitors etc.
 
-![image](../image/simplex.png)
+![simplex](./image/simplex.png)
 
 
 **2. Half-Duplex** :- In half-duplex mode both devices can send or receive data but not at the same time i.e.,  when one device is sending, other can only recive and vice versa.
 
 e.g, Walkie-talkie radios etc.
 
-![image](../image/half-duplex.png)
+![half-duplex](./image/half-duplex.png)
 
 **3. Full-duplex** :- In full duplex mode both devices can transmit and recive data simultaneouly.
 
 e.g, Telephone networks, etc.
 
-![image](../image/full_duplex.png)
+![full_duplex](./image/full_duplex.png)
