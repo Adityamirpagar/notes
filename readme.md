@@ -1,2 +1,2 @@
-Notes on computer networking
+Notes on the computer networking
 
